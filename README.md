@@ -1,4 +1,4 @@
-# Hellow, this is Divyanshi Ojha  👋
+# Hi there, this is Divyanshi Ojha  👋
 
 **Computer Science and Engineering Student**
 
