@@ -28,7 +28,5 @@
 - Create beginner-friendly projects in C  
 - Document my journey consistently on GitHub  
 
-<p align="center">
-  <img src="./coding.gif" width="500" alt="Coding Animation">
-</p>
+
 
